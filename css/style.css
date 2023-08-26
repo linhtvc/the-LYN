@@ -61,3 +61,13 @@ h1, h2, h3, h4, h5, h6{
     color: var(--brand);
     border-color: var(--brand);
 }
+
+.btn-outline-brand{
+    background-color: transparent;
+    color: var(--brand);
+    border-color: var(--brand);
+}
+
+.btn-outline-brand:hover{
+    background-color: var(--brand);
+}
