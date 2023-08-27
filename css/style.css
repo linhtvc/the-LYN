@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6{
 
 /*HERO*/
 #hero{
-    background: linear-gradient(to right, #f9daba99, rgba(27, 31, 52, 0.0)), url(../img/banner-02.jpg);
+    background: linear-gradient(to right, #f9daba99, rgba(27, 31, 52, 0.0)), url("../img/banner-04.png");
     min-height: 100vh;
     background-position: center;
     background-size: cover;
