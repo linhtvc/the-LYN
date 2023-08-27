@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Inter:wght@400;500;600&display=swap');
 
 :root {
-    --bg1: #151828;
-    --bg2: #1B1F34;
+    --bg1: #e92f6d;
+    --bg2: #e92f6d;
     --body: #959DCC;
     --brand: #FFAB76;
     --white: #fff;
@@ -29,8 +29,9 @@ h1, h2, h3, h4, h5, h6{
 
 /*NAVBAR*/
 .navbar{
-    background: linear-gradient(to bottom, #1B1F34, rgba(27, 31, 52, 0.2));
+    background: linear-gradient(to bottom, #e92f6d, rgba(100, 0, 46, 0.5))
 }
+
 .navbar-brand{
     font-family: "Dela Gothic One", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 32px;
@@ -38,7 +39,7 @@ h1, h2, h3, h4, h5, h6{
 
 /*HERO*/
 #hero{
-    background: linear-gradient(to right, #1B1F34, rgba(27, 31, 52, 0.0)), url(../img/cover_1.jpg);
+    background: linear-gradient(to right, #f9daba99, rgba(27, 31, 52, 0.0)), url(../img/banner-02.jpg);
     min-height: 100vh;
     background-position: center;
     background-size: cover;
